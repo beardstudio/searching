@@ -1,0 +1,698 @@
+﻿{
+    "agences": {
+        "bruxelles": [
+            {
+                "agence": "1MD",
+                "website": "http://www.1md.be/contact",
+                "cp": "1000",
+                "tags": "Crea, Comm",
+                "address": "Avenue Louise, 60-62"
+            },
+            {
+                "agence": "add retail",
+                "website": "https://addretail.com/",
+                "cp": "1070",
+                "tags": "Marketing, Strategy, Comm, Crea",
+                "address": "Rue des deux gares 122"
+            },
+            {
+                "agence": "Admax",
+                "website": "http://www.admax.be/contact/",
+                "cp": "1020",
+                "tags": "Strategy, Concept, Dev, Content, Referencement, Crea",
+                "address": "Rue du Heysel 140, bte 3.8"
+            },
+            {
+                "agence": "Alinoa",
+                "website": "https://www.alinoa.be/contact/",
+                "cp": "1180",
+                "tags": "Strategy, Concept, Dev, Crea",
+                "address": "10 rue de Broyer"
+            },
+            {
+                "agence": "Alt studio",
+                "website": "http://www.altstudio.be/en/pages/view/9",
+                "cp": "1000",
+                "tags": "Concept, Crea, Packaging, Dev",
+                "address": "Avenue Louise 134"
+            },
+            {
+                "agence": "Altavia Act*",
+                "website": "https://altavia-act.com/jobs",
+                "cp": "1050",
+                "tags": "Strategy, Content, Social, Print, Crea",
+                "address": "Avenue Louise, 287/10"
+            },
+            {
+                "agence": "Altran",
+                "website": "https://www.altran.com/be/en/digital/",
+                "cp": "1200",
+                "tags": "App, Web, Artificial, Cyber",
+                "address": "Avenue de Tervueren 270"
+            },
+            {
+                "agence": "Anais Digital",
+                "website": "http://www.anais.digital/careers",
+                "cp": "1200",
+                "tags": "Accessibility, Architecure, Content, Dev",
+                "address": "Headquarters Gulledelle, 94"
+            },
+            {
+                "agence": "antidot",
+                "website": "https://www.antidot.com/contact/",
+                "cp": "1040",
+                "tags": "Crea",
+                "address": "Rue du Grand Duc 13"
+            },
+            {
+                "agence": "Arts square",
+                "website": "http://www.arts-square.com/en/contact/",
+                "cp": "1050",
+                "tags": "Crea, Print",
+                "address": "Rue Dautzenberg 31"
+            },
+            {
+                "agence": "Atelier Ton piquant",
+                "website": "http://tonpiquant.tumblr.com/contact",
+                "cp": "1050",
+                "tags": "Crea, Print",
+                "address": "Rue de la Tulipe 10"
+            },
+            {
+                "agence": "B2A Solutions",
+                "website": "https://www.b2asolutions.com/contact-us.html",
+                "cp": "1040",
+                "tags": "Consultance",
+                "address": "241 Avenue d'auderghem"
+            },
+            {
+                "agence": "Base Design",
+                "website": "https://www.basedesign.com/contact",
+                "cp": "1060",
+                "tags": "Strategy, Concept, Crea, Dev",
+                "address": "Ch. de Forest 62/5"
+            },
+            {
+                "agence": "Be connect",
+                "website": "https://www.be-connect.eu/about-us/#hiring-social-ads",
+                "cp": "1160",
+                "tags": "Strategy, Social, Marketing",
+                "address": "Omega Court Rue Jules Cockx 10"
+            },
+            {
+                "agence": "Best-web",
+                "website": "https://www.best-web.be/agence-web-bruxelles-contact",
+                "cp": "1000",
+                "tags": "Crea, Referencement, App",
+                "address": "Rue Philippe de Champagne 3"
+            },
+            {
+                "agence": "blue 2 purple",
+                "website": "https://www.blue2purple.com/fr/jobs-opportunities/",
+                "cp": "1050",
+                "tags": "Strategy, Social, Marketing, SEO",
+                "address": "Avenue Louise 523"
+            },
+            {
+                "agence": "Bluetime",
+                "website": "https://www.bluetime.be/contact.html",
+                "cp": "1160",
+                "tags": "Strategy, SEO, Crea",
+                "address": "Chaussée de Wavre, 1100/4"
+            },
+            {
+                "agence": "Business Decision",
+                "website": "https://www.businessdecision.be/227-job-search.htm",
+                "cp": "1200",
+                "tags": "Data, Crea, App",
+                "address": "141, rue Saint Lambert"
+            },
+            {
+                "agence": "Central team",
+                "website": "https://central.team/contact/",
+                "cp": "1060",
+                "tags": "Crea, Content, Dev",
+                "address": "Rue Vanderschrick 85"
+            },
+            {
+                "agence": "Cherry pulp",
+                "website": "https://cherrypulp.com/",
+                "cp": "1030",
+                "tags": "Architecture, Concept, Crea, SEO",
+                "address": "Rue des Palais 44 bte 17"
+            },
+            {
+                "agence": "Clicktrust",
+                "website": "https://clicktrust.be/en/careers/",
+                "cp": "1040",
+                "tags": "SEO",
+                "address": "Sint-Michielswarrande 100"
+            },
+            {
+                "agence": "Code frisko",
+                "website": "http://codefrisko.com/page/about-contact/",
+                "cp": "1190",
+                "tags": "Crea, Print",
+                "address": "Rue vanden Corput 2"
+            },
+            {
+                "agence": "Comstrat",
+                "website": "https://www.comstrat.be/fr/contacter-comstrat",
+                "cp": "1070",
+                "tags": "Marketing, Comm, Crea, Dev",
+                "address": "Quai d'aa, 6"
+            },
+            {
+                "agence": "Concerto",
+                "website": "https://www.concerto.be/contact",
+                "cp": "1050",
+                "tags": "Crea, Print",
+                "address": "Rue Washingtonstraat 65"
+            },
+            {
+                "agence": "Curious cowboy",
+                "website": "http://www.curiouscowboy.com/about-us",
+                "cp": "1000",
+                "tags": "Crea, Motion, Video, 3D"
+            },
+            {
+                "agence": "Deligraph",
+                "website": "https://deligraph.com/notre-equipe/",
+                "cp": "1190",
+                "tags": "Crea, Animation, Copy, Video",
+                "address": "Rue Meyerbeer 20"
+            },
+            {
+                "agence": "Design is dead",
+                "website": "http://www.designisdead.com/jobs/",
+                "cp": "1170",
+                "tags": "Crea, Data, App",
+                "address": "Rue Middelbourg 64 B"
+            },
+            {
+                "agence": "Desired",
+                "website": "https://desired.be/",
+                "cp": "1200",
+                "tags": "Strategy, Social, Video, Training, SEO",
+                "address": "Rue Saint Henri, 86"
+            },
+            {
+                "agence": "Digitag",
+                "website": "https://digit.ag/contact/",
+                "cp": "1050",
+                "tags": "Strategy, Social, SEO, Dev,  Crea",
+                "address": "Chaussée de Vleurgat, 206"
+            },
+            {
+                "agence": "Digital park",
+                "website": "http://www.digitalpark.be/",
+                "cp": "1060",
+                "tags": "Crea",
+                "address": "Rue de Savoie 6"
+            },
+            {
+                "agence": "Digitas",
+                "website": "https://www.digitas.com/fr-fr/bureaux/brussels",
+                "cp": "1000",
+                "tags": "Strategy, Dev, Concept, Data",
+                "address": "Hôtel des Douanes, 1 Rue Picard"
+            },
+            {
+                "agence": "E-net business",
+                "website": "https://www.e-net-b.be/categorie/jobs-travailler-travail-internet-web-e-net-business.html",
+                "cp": "1050",
+                "tags": "Strategy, Crea, Referencement, Training, Comm",
+                "address": "Avenue Louise n° 523"
+            },
+            {
+                "agence": "Emakina",
+                "website": "https://www.emakina.be/",
+                "cp": "1170",
+                "tags": "Crea, Strategy, Concept, Dev, SEO, Referencement, Architecture, Content",
+                "address": "64 A Rue Middelbourg"
+            },
+            {
+                "agence": "Ergonomic",
+                "website": "https://ergonomic.be/contact",
+                "cp": "1120",
+                "tags": "Crea, dev, app, SEO, Social, Marketing, SEA",
+                "address": "Rue ransbeek, 230"
+            },
+            {
+                "agence": "Everis",
+                "website": "https://www.everis.com/belgium/en/careers",
+                "cp": "1000",
+                "tags": "Consultance",
+                "address": "Rue de Spa, 8"
+            },
+            {
+                "agence": "Evo",
+                "website": "http://blog.evo.group/topics/jobs/",
+                "cp": "1000",
+                "tags": "Strategy, Marketing, Social, SEA, Ergonomy, Crea, Dev",
+                "address": "Avenue Louise, 60-62"
+            },
+            {
+                "agence": "face to face",
+                "website": "http://www.facetofacedesign.com/#",
+                "cp": "1060",
+                "tags": "Crea, Packaging, Dev",
+                "address": "254 ch. de Forest"
+            },
+            {
+                "agence": "Federate",
+                "website": "http://federate.eu/en/jobs",
+                "cp": "1030",
+                "tags": "Strategy, Concept, Crea, Content, SEO, Social",
+                "address": "Rue Artan 120"
+            },
+            {
+                "agence": "Genetvision",
+                "website": "https://genetvision.com/nous-contacter/",
+                "cp": "1030",
+                "tags": "Dev, App, SEO, Social, Crea, Marketing, Advertise",
+                "address": "15 avenue de Roodebeek"
+            },
+            {
+                "agence": "Globule bleu",
+                "website": "https://www.globulebleu.com/jobs/",
+                "cp": "1620",
+                "tags": "Crea, Concept",
+                "address": "Boulevard de l'humanité 237"
+            },
+            {
+                "agence": "Green Paper",
+                "website": "https://greenpepper.agency/#contact",
+                "cp": "1150",
+                "tags": "Strategy, Crea, Event, Dev, Print",
+                "address": "Avenue Roger Vandendriessche 18"
+            },
+            {
+                "agence": "Havas media",
+                "website": "https://be.havas.com/contact/",
+                "cp": "1000",
+                "tags": "Strategy, Concept, Crea",
+                "address": "Rue des Boiteux 9"
+            },
+            {
+                "agence": "I-logics",
+                "website": "http://i-logics.be/contactez-une-agence-web-bruxelles/",
+                "cp": "1050",
+                "tags": "Comm, Hosting, Crea, Dev, Concept",
+                "address": "Rue Américaine 61-65"
+            },
+            {
+                "agence": "In extremis",
+                "website": "http://inextremis.be/contact.php",
+                "cp": "1190",
+                "tags": "Comm",
+                "address": "45 Wielemans Ceuppens, 1190"
+            },
+            {
+                "agence": "Inbyweb",
+                "website": "https://www.inbyweb.be/travailler-pour-inbyweb.html",
+                "cp": "1030",
+                "tags": "Marketing, SEA, Comm, Crea, dev",
+                "address": "44bt12, rue des Palais"
+            },
+            {
+                "agence": "Inkutlab",
+                "website": "http://www.inkutlab.com/contact/",
+                "cp": "1190",
+                "tags": "Print et 3D",
+                "address": "Avenue Albert, 13"
+            },
+            {
+                "agence": "Jaune citron",
+                "website": "http://www.jaunecitron.be/",
+                "cp": "1070",
+                "tags": "Print",
+                "address": "34-36 rue du Chimiste"
+            },
+            {
+                "agence": "JWT",
+                "website": "https://www.jwt.com/fr/brussels/carri%C3%A8res#jobs",
+                "cp": "1160",
+                "tags": "Motion, Data, Dev, Social, Comm",
+                "address": "Omega Court, Rue Jules Cockxstraat 8-10"
+            },
+            {
+                "agence": "Karakas",
+                "website": "https://www.karakas.be/contact.php?origin=digital",
+                "cp": "1040",
+                "tags": "Strategy, Content, Ergonomy, Dev, Crea",
+                "address": "17 rue Charles Legrelle"
+            },
+            {
+                "agence": "Knewledge",
+                "website": "https://www.knewledge.com/contactez-nous/",
+                "cp": "1160",
+                "tags": "Strategy, Marketing, Comm, SEO, SEA, Social",
+                "address": "19, avenue des Volontaires"
+            },
+            {
+                "agence": "La super boite",
+                "website": "https://www.lasuperboite.be/contact/",
+                "cp": "1060",
+                "tags": "Crea, Motion, Events, Dev, Social",
+                "address": "18, rue Gustave Defnet"
+            },
+            {
+                "agence": "Lielens",
+                "website": "https://www.lielens.be/careers/",
+                "cp": "1030",
+                "tags": "Strategy, Concept, Crea",
+                "address": "Rue Henri Evenepoelstraat 9"
+            },
+            {
+                "agence": "Littera graphis",
+                "website": "http://www.litteragraphis.be/contact-2/",
+                "cp": "1050",
+                "tags": "Crea, Content; Marketing",
+                "address": "Chée de Boondael 6"
+            },
+            {
+                "agence": "Lucy",
+                "website": "http://www.lucyagency.com/#/contact",
+                "cp": "1000",
+                "tags": "Comm, Crea",
+                "address": "Handelskaai 48"
+            },
+            {
+                "agence": "LWM",
+                "website": "https://lwm-agence.com/#talents",
+                "cp": "1050",
+                "tags": "Data, Ergonomy, Crea, Dev",
+                "address": "367 Avenue Louise"
+            },
+            {
+                "agence": "Mad Kings",
+                "website": "https://www.madkings.com/jobs/",
+                "cp": "1040",
+                "tags": "Strategyn Crea, Ergonomy, Social",
+                "address": "rue des Pères Blancs, 4"
+            },
+            {
+                "agence": "Many think",
+                "website": "http://www.manythink.be/en/we-are",
+                "cp": "1190",
+                "tags": "Strategy, Crea, Motion, Dev, Content, Comm",
+                "address": "55 rue des Anciens Etangs"
+            },
+            {
+                "agence": "Matière noire",
+                "website": "http://www.mns.agency/contact-us/",
+                "cp": "1030",
+                "tags": "Print, 3D, Motion",
+                "address": "229, avenue Paul Deschanel"
+            },
+            {
+                "agence": "Mediaplus",
+                "website": "https://mediaplus.softgarden.io/en/vacancies",
+                "cp": "1060",
+                "tags": "Strategy, Comm, Crea",
+                "address": "Chaussée de Waterloo 104"
+            },
+            {
+                "agence": "Most wanted",
+                "website": "https://www.mostwanted-agency.net/",
+                "cp": "1180",
+                "tags": "Ergonomy, Crea, Dev",
+                "address": "Rue Egide Van Ophem 40/A"
+            },
+            {
+                "agence": "Moutain View",
+                "website": "http://mountainview.be/fr/contact/",
+                "cp": "1190",
+                "tags": "Strategy, Ergonomy, Social",
+                "address": "Avenue du Pont de Luttre, 5"
+            },
+            {
+                "agence": "MV Studio",
+                "website": "https://www.mvstudio.be/careers",
+                "cp": "1050",
+                "tags": "Crea, Dev, App",
+                "address": "Rue du collège 27"
+            },
+            {
+                "agence": "Ogilvy",
+                "website": "https://belgiumcareers-ogilvy.icims.com/jobs/search?hashed=-435626303&mobile=false&width=1543&height=500&bga=true&needsRedirect=false&jan1offset=60&jun1offset=120",
+                "cp": "1000",
+                "tags": "Marketing, SEA, Comm",
+                "address": "Kantersteen 47 Cantersteen"
+            },
+            {
+                "agence": "PAF Design",
+                "website": "http://pafdesign.be/contact",
+                "cp": "1160",
+                "tags": "Concept, Crea, Dev",
+                "address": "Av. des Volontaires, 19"
+            },
+            {
+                "agence": "Pop prod",
+                "website": "https://www.pop-prod.com/contact/",
+                "cp": "1200",
+                "tags": "Strategy, Crea, Dev, Content, Video",
+                "address": "30, clos chapelle-aux-champs"
+            },
+            {
+                "agence": "Pouce pied",
+                "website": "https://www.pouce-pied.com/contact",
+                "cp": "1060",
+                "tags": "Motion, Crea, Dev",
+                "address": "Rue Coenraets 72"
+            },
+            {
+                "agence": "Produweb",
+                "website": "https://www.produweb.be/fr/emploi-agence-web/",
+                "cp": "1160",
+                "tags": "Strategy, Crea, Dev, Video, Training",
+                "address": "Avenue des Volontaires 19"
+            },
+            {
+                "agence": "Proximedia",
+                "website": "http://www.proximedia.be/jobs/",
+                "cp": "1620",
+                "tags": "Marketing, Crea, Dev",
+                "address": "Boulevard de l'Humanité 237"
+            },
+            {
+                "agence": "Publicis",
+                "website": "http://www.publicis.be/careers/",
+                "cp": "1000",
+                "tags": "Strategy, SEO, Content, Crea, Data, SEA, Marketing, Social",
+                "address": "Rue Picard 1"
+            },
+            {
+                "agence": "Riaktr",
+                "website": "https://careers.riaktr.com/",
+                "cp": "1050",
+                "tags": "Data",
+                "address": "Place du Champ de Mars 5"
+            },
+            {
+                "agence": "Scalp",
+                "website": "https://www.scalp.be/contact",
+                "cp": "1070",
+                "tags": "Comm, Crea, Content, App, Dev, Social",
+                "address": "rue Bara, 173-177"
+            },
+            {
+                "agence": "Sellmor",
+                "website": "http://www.sellmor.eu/contact-us",
+                "cp": "1200",
+                "tags": "Crea, Dev, SEO, SEA, Strategy",
+                "address": "46, Boulevard de la woluwe"
+            },
+            {
+                "agence": "semetis",
+                "website": "https://www.semetis.com/en/careers",
+                "cp": "1030",
+                "tags": "SEO, Training",
+                "address": "Rue des Palais 44"
+            },
+            {
+                "agence": "Semopti",
+                "website": "https://www.semopti.be/contact/",
+                "cp": "1180",
+                "tags": "Strategyn SEO, SEA, Crea, Dev",
+                "address": "77 Avenue de la Floride"
+            },
+            {
+                "agence": "Seobiz",
+                "website": "https://seobiz.be/contact/",
+                "cp": "1040",
+                "tags": "Marketing, SEO, Social, Crea, Dev",
+                "address": "Rond-Point Schuman 6"
+            },
+            {
+                "agence": "Service plan",
+                "website": "http://www.serviceplan.be/en/",
+                "cp": "1150",
+                "tags": "Marketing, Crea, Dev, Comm",
+                "address": "Bovenberg 124"
+            },
+            {
+                "agence": "Sign",
+                "website": "http://www.designbysign.com/contact-us/",
+                "cp": "1180",
+                "tags": "Concept, Crea",
+                "address": "Rue de Stalle 140A"
+            },
+            {
+                "agence": "Social lab",
+                "website": "http://social-lab.eu/jobs/",
+                "cp": "1000",
+                "tags": "Content, Social, Strategy, Crea, Dev",
+                "address": "Cantersteen 47"
+            },
+            {
+                "agence": "Solution ID",
+                "website": "https://www.solutionsid.be/contact/",
+                "cp": "1000",
+                "tags": "Concept, Crea, Print",
+                "address": "58-62 Rue des Tanneurs"
+            },
+            {
+                "agence": "Studio 48",
+                "website": "http://www.studio48.be/",
+                "cp": "1050",
+                "tags": "Strategy, SEO, Crea, Dev, Marketing, Training",
+                "address": "Avenue Louise, 54"
+            },
+            {
+                "agence": "Studio Alvin",
+                "website": "http://studio-alvin.com/",
+                "cp": "1060",
+                "tags": "Crea, Dev, Print, Motion, SEO, SEA, App",
+                "address": "Rue de la Glacière, 21"
+            },
+            {
+                "agence": "Sunny side up",
+                "website": "http://www.sunny-side-up.be/jobs/web/",
+                "cp": "1190",
+                "tags": "Comm, Concept, Crea, Dev, Packaging",
+                "address": "11 Avenue Jupiter"
+            },
+            {
+                "agence": "Synexis",
+                "website": "http://www.synexis.be/contact",
+                "cp": "1070",
+                "tags": "Crea, Dev, SEA, Hosting, Video",
+                "address": "Allée de la Recherche 12"
+            },
+            {
+                "agence": "taptic",
+                "website": "https://legacy.tapptic.com/join-us/",
+                "cp": "1000",
+                "tags": "Ergonomy, Dev, Crea",
+                "address": "Boulevard de la Cambre 28-30"
+            },
+            {
+                "agence": "Taton",
+                "website": "http://www.taton.be/contact.html",
+                "cp": "1040",
+                "tags": "Photo, Crea, Video, Print, 3D",
+                "address": "Rue de Mot 3"
+            },
+            {
+                "agence": "The crew communication",
+                "website": "https://www.thecrewcommunication.com/contact/",
+                "cp": "1050",
+                "tags": "Strategy, Comm, Crea, SEO, SEA",
+                "address": "251 Avenue Louise"
+            },
+            {
+                "agence": "The oval office",
+                "website": "https://www.theovaloffice.be/nl/jobs/",
+                "cp": "1000",
+                "tags": "Marketing, Comm, Event",
+                "address": "Havenlaan 86C"
+            },
+            {
+                "agence": "Tipik",
+                "website": "https://tipik.eu/jobs/",
+                "cp": "1150",
+                "tags": "Concept, Crea, Dev, Event, Social",
+                "address": "Avenue de Tervueren 270"
+            },
+            {
+                "agence": "Touch agency",
+                "website": "https://www.touch-agency.net/#5",
+                "cp": "1050",
+                "tags": "Crea, Strategy, Dev, SEO, SEA, Marketing, Content, Social",
+                "address": "Avenue Arnaud Fraiteur 15-23 Boite A21"
+            },
+            {
+                "agence": "Typi design",
+                "website": "https://www.typi.be/fr/accueil",
+                "cp": "1050",
+                "tags": "Comm, Crea, Print",
+                "address": "Rue de l’automne 54"
+            },
+            {
+                "agence": "Universem",
+                "website": "https://be-fr.universem.com/notre-agence/travailler-chez-universem/",
+                "cp": "1160",
+                "tags": "Strategy, SEO, SEA",
+                "address": "Av. Herrmann-Debroux, 40"
+            },
+            {
+                "agence": "Uniway",
+                "website": "https://www.sii.be/",
+                "cp": "1932",
+                "tags": "Strategy, Crea, Dev",
+                "address": "Lenneke Marelaan 12/1"
+            },
+            {
+                "agence": "Visiyou",
+                "website": "https://www.visiyou.com/contact-informations-pratiques-visiyou",
+                "cp": "1070",
+                "tags": "Strategy, Social, SEO, SEA, Crea, Dev, Video",
+                "address": "Square Marie Curie 20"
+            },
+            {
+                "agence": "Voice agency",
+                "website": "https://www.voice.be/en/jobs",
+                "cp": "1180",
+                "tags": "Strategy, Crea, Content, SEO, Ergonomy",
+                "address": "Rue de Stalle 142"
+            },
+            {
+                "agence": "Web-bruxelles",
+                "website": "http://www.web-bruxelles.be/contact",
+                "cp": "1150",
+                "tags": "Crea, Dev, SEAO, SEA",
+                "address": "258-260 Rue au Bois"
+            },
+            {
+                "agence": "Webulous",
+                "website": "https://www.webulous.be/contact.html",
+                "cp": "1150",
+                "tags": "Strategy, Crea, Dev",
+                "address": "Rue Konkel, 105 bte 16"
+            },
+            {
+                "agence": "Wibicom",
+                "website": "https://www.wibicom.be/offres-emploi-web-bruxelles#",
+                "cp": "1190",
+                "tags": "Strategy, Marketing, Content, Crea, Dev, Print",
+                "address": "Avenue Brugmann 157"
+            },
+            {
+                "agence": "World fo digit",
+                "website": "https://worldofdigits.com/careers/",
+                "cp": "1060",
+                "tags": "Marketing, Crea",
+                "address": "112-116 Ch de Charleroi"
+            },
+            {
+                "agence": "Wunderman",
+                "website": "https://globalcareers-wunderman.icims.com/jobs/search?ss=1&searchCompany=402&mobile=false&width=1000&height=500&bga=true&needsRedirect=false&jan1offset=60&jun1offset=120",
+                "cp": "1700",
+                "tags": "Data, Marketing, Comm",
+                "address": "Eikelenbergstraat 20"
+            }
+        ]
+    }
+}
