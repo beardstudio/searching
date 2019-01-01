@@ -9,9 +9,23 @@ header.search_header{
 aside.search_input{
 	padding: 20px;
 	form{
-		input{
-			padding: 10px;
-			width: 100%;
+		.form-search{
+			position: relative;
+			input{
+				padding: 20px;
+				width: 100%;
+			}
+			button{
+				position: absolute;
+				right: 12px;
+				top: 50%;
+				transform: translateY(-50%);
+				background-color: #17b565;
+				height: calc(100%-4px);
+				color: #fff;
+				padding: 10px 20px;
+				border-radius: 4px;
+			}
 		}
 	}
 }
